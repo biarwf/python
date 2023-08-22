@@ -1,0 +1,5 @@
+O programa seleciona aleatoriamente uma palavra da lista.
+2. A palavra é embaralhada.
+3. Você tem 6 chances para adivinhar a palavra correta.
+4. Após cada tentativa, o programa informará se você acertou ou errou.
+5. O jogo continua até você acertar a palavra ou ficar sem chances.
